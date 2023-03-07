@@ -7,7 +7,7 @@ This is a fun font based off the Yiddish Esther Scroll made in New York in 1936 
 
 ## Installation
 
-To use this font just download the Zip file, unpack it, and double click on the .ttf file. This will open a window where you can click a button that says install to install the font to your device.
+To use this font just download the [Zip file](https://github.com/MarnieRM/The-Evelyn-Yehoash-s-Esther-Font/blob/main/E_Yehoash_Esther.zip), unpack it, and double click on the .ttf file. This will open a window where you can click a button that says install to install the font to your device.
 
 ## Extra Information About the Font
 
