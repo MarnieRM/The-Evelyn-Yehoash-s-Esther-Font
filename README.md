@@ -11,7 +11,7 @@ To use this font just download the Zip file, unpack it, and double click on the 
 
 ## Extra Information About the Font
 
-Currently there may be some simple punctuation missing from the font. If you would like anything added to the font, please get in touch. Additionally there are to unusual characters in this font, the interrobang and upside-down interrobang. Currently these two Unicode characters store a version of the tes and lamed with extra long ascenders. Feel free to use them as I feel they are closer to the original scroll (though they may be a little challenging to use). 
+Currently there may be some simple punctuation missing from the font. If you would like anything added to the font, please get in touch. Additionally there are two unusual characters in this font, the interrobang and upside-down interrobang. For now these two Unicode characters store a version of the tes and lamed with extra long ascenders. Feel free to use them as I feel they are closer to the original scroll (though they may be a little challenging to use). 
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTcxNDFkOTdjOTcxNGNmM2E2NzU1N2E5OTllZTliOTRlYWY4NGQwNyZjdD1n/LSRLkwf08PGDdHM99F/giphy.gif" width = 50% height = 50%>
 
