@@ -23,6 +23,10 @@ If anyone knows anything about programmatically making fonts please get in touch
 
 If you have not seen [CYCO Books](https://www.facebook.com/groups/307415619354386) already, check them out!
 
+## Want to Know More About this Esther Scroll?
+
+Check out this great article about it from In Geveb at this [link](https://ingeveb.org/blog/yehoashs-scroll-a-calligraphed-megiles-ester)
+
 ## License
 
 [SIL Open Font License 1.1](https://choosealicense.com/licenses/ofl-1.1/)
